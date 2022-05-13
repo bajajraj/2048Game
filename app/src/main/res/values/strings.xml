@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exambajajraj</string>
+    <string name="score">Score</string>
+    <string name="example">Example</string>
+    <string name="new_game">New Game</string>
+    <string name="game_over">There are no more moves, you have lost the game!</string>
+</resources>
